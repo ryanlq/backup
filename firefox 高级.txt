@@ -1,0 +1,7 @@
+browser.newtabpage.enable  true -》 false
+
+新建： browser.newtab.url   -》 https://ryanlq.github.io/homepage1/BookmarksHome.html
+
+browser.newtabpage.pinned
+
+browser.translation * 内置的浏览器翻译服务 
